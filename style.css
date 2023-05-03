@@ -42,3 +42,9 @@ p {
   height: 50px;
   margin: 0 10px;
 }
+
+@media screen and (orientation: landscape) and (max-width: 767px) {
+  body {
+    overflow-x: hidden;
+  }
+}
