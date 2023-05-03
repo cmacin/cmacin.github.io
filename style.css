@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.home {
+  background-image: url('images/astronaut.jpeg');
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 72px;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: "Montserrat-Light", sans-serif;
+  font-size: 24px;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.social img {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+}
