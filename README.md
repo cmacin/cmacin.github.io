@@ -1,10 +1,13 @@
 ## Personal Website
 
-**Last updated**:`23/07/2021`
+**Last updated**:`03/05/2023`
 
 ### Content
 
-- `Placeholder`
-- `Placeholder`
-- `Placeholder`
-- `Placeholder`
+- Landing Page
+
+### Potential improvements
+
+[ ] Add a photo gallery page
+[ ] Add a blogging/musing page
+[ ] Create a YouTube channel embed page
