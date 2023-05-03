@@ -9,10 +9,10 @@
 
 ### Done To Date
 
-- [ ] Create landing page
-- [ ] Embed socials
-- [ ] Create a background
-- [ ] Link to `christophemacintosh.com`
+- [X] Create landing page
+- [X] Embed socials
+- [X] Create a background
+- [X] Link to `christophemacintosh.com`
 - [ ] Make sure `CNAME` is propagated currently.
 
 ### Potential improvements
