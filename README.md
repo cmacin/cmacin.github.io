@@ -11,3 +11,4 @@
 - [ ] Add a photo gallery page
 - [ ] Add a blogging/musing page
 - [ ] Create a YouTube channel embed page
+- [ ] Add a resume/career experience page
