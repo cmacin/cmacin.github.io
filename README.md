@@ -6,6 +6,15 @@
 
 - Landing Page
 
+
+### Done To Date
+
+- [ ] Create landing page
+- [ ] Embed socials
+- [ ] Create a background
+- [ ] Link to `christophemacintosh.com`
+- [ ] Make sure `CNAME` is propagated currently.
+
 ### Potential improvements
 
 - [ ] Add a photo gallery page
