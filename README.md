@@ -19,5 +19,6 @@
 
 - [ ] Add a photo gallery page
 - [ ] Add a blogging/musing page
+- [ ] Add a "What I'm currently reading page"
 - [ ] Create a YouTube channel embed page
 - [ ] Add a resume/career experience page
